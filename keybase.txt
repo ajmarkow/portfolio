@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ajmarkow
+———————————————————————
+
+I hereby claim:
+
+  * I am an admin of https://ajm.codes
+  * I am ajmarkow (https://keybase.io/ajmarkow) on keybase.
+  * I have a public key ASAsYhegYAk0x8cHjUi47vWGlepfdKrp9fLmO6WfuLloPgo
+
+To do so, I am signing this object:
+
+{
+  “body”: {
+    “key”: {
+      “eldest_kid”: “0120806cff820d44ffcae5c3e20fb669f53700ff19bb8c8f4ad2084d51ecff2caba30a”,
+      “host”: “keybase.io”,
+      “kid”: “01202c6217a0600934c7c7078d48b8eef58695ea5f74aae9f5f2e63ba59fb8b9683e0a”,
+      “uid”: “e798ccfa36a933a498244c8baf541d19”,
+      “username”: “ajmarkow”
+    },
+    “merkle_root”: {
+      “ctime”: 1608854228,
+      “hash”: “ac8b182ad583f47b37fe04e3c51b7bd24dc34f899762db780bb9ed86a38b6b111254369149ca725100aab0978284382b813033cf1439355bc77ace79bf412b1e”,
+      “hash_meta”: “1788da1c4f54e152bfc1ee1e29fbfba2798613cca125347718426bf292a502ff”,
+      “seqno”: 18498723
+    },
+    “service”: {
+      “entropy”: “asTx02wEirwMy9RHBwZicNQR”,
+      “hostname”: “ajm.codes”,
+      “protocol”: “https:”
+    },
+    “type”: “web_service_binding”,
+    “version”: 2
+  },
+  “client”: {
+    “name”: “keybase.io go client”,
+    “version”: “5.5.0”
+  },
+  “ctime”: 1608854241,
+  “expire_in”: 504576000,
+  “prev”: “5ca0301059c6296cb2c98fd11f04a1fd01704910ad2419a940b50747a3d9a7c0”,
+  “seqno”: 48,
+  “tag”: “signature”
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLGIXoGAJNMfHB41IuO71hpXqX3Sq6fXy5juln7i5aD4Kp3BheWxvYWTESpcCMMQgXKAwEFnGKWyyyY/RHwSh/QFwSRCtJBmpQLUHR6PZp8DEIPcXG+yFiRfBsD9WLPOqO0b0Sntrtqq8QprYMsGEi5qdAgHCo3NpZ8RA0lMuTh4/IneWUV62miaNIHl2/LYcXog3LCv/uioYq7iChbSfvAfCkLg+wrOzjI8+ODBMkk46BDa/BsdQvnHUCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOzJcIBlBQA7EjOpOM0rO3ckTfTEaSDWqVtjZbROwFi0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ajmarkow
+
+==================================================================
