@@ -1,0 +1,1 @@
+This file is for testing IPV6 connectivity to my AWS Amplify Hosting.
